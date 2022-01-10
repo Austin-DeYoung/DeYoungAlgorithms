@@ -1,0 +1,12 @@
+C:\Users\Austin D\Desktop\DeYoungAlgorithms\DeYoungAlgorithms\bin\Debug\DeYoungAlgorithms.exe.config
+C:\Users\Austin D\Desktop\DeYoungAlgorithms\DeYoungAlgorithms\bin\Debug\DeYoungAlgorithms.exe
+C:\Users\Austin D\Desktop\DeYoungAlgorithms\DeYoungAlgorithms\bin\Debug\DeYoungAlgorithms.pdb
+C:\Users\Austin D\Desktop\DeYoungAlgorithms\DeYoungAlgorithms\obj\Debug\DeYoungAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\Austin D\Desktop\DeYoungAlgorithms\DeYoungAlgorithms\obj\Debug\DeYoungAlgorithms.exe
+C:\Users\Austin D\Desktop\DeYoungAlgorithms\DeYoungAlgorithms\obj\Debug\DeYoungAlgorithms.pdb
+C:\Users\austi\Documents\Extra Programs\DeYoungPalindrome\DeYoungAlgorithms\DeYoungAlgorithms\DeYoungAlgorithms\bin\Debug\DeYoungAlgorithms.exe.config
+C:\Users\austi\Documents\Extra Programs\DeYoungPalindrome\DeYoungAlgorithms\DeYoungAlgorithms\DeYoungAlgorithms\bin\Debug\DeYoungAlgorithms.exe
+C:\Users\austi\Documents\Extra Programs\DeYoungPalindrome\DeYoungAlgorithms\DeYoungAlgorithms\DeYoungAlgorithms\bin\Debug\DeYoungAlgorithms.pdb
+C:\Users\austi\Documents\Extra Programs\DeYoungPalindrome\DeYoungAlgorithms\DeYoungAlgorithms\DeYoungAlgorithms\obj\Debug\DeYoungAlgorithms.csprojAssemblyReference.cache
+C:\Users\austi\Documents\Extra Programs\DeYoungPalindrome\DeYoungAlgorithms\DeYoungAlgorithms\DeYoungAlgorithms\obj\Debug\DeYoungAlgorithms.exe
+C:\Users\austi\Documents\Extra Programs\DeYoungPalindrome\DeYoungAlgorithms\DeYoungAlgorithms\DeYoungAlgorithms\obj\Debug\DeYoungAlgorithms.pdb
